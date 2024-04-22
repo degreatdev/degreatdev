@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/osondudodo" target="blank"><img src="https://img.shields.io/twitter/follow/osondudodo?logo=twitter&style=for-the-badge" alt="osondudodo" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React Js**
+- 🥑 I’m currently building with **JavaScript, React Js, Next Js**
 
 - 💬 Ask me about **HTML, CSS, and JavaScript**
 
